@@ -1,0 +1,63 @@
+[
+  
+  {
+    "name": "Portfolio Dark",
+    "desc": "A portfolio is a compilation of academic and professional materials that exemplifies your beliefs, skills, qualifications, education, training, and experiences..",
+    "image": "port3",
+    "category": "basicweb",
+    "links": {
+      "view": "https://Abhinesh-Dwivedi.github.io/JavaScript-Projects/api-projects/saas-jobs",
+      "code": "https://github.com/Abhinesh-Dwivedi/JavaScript-Projects/tree/main/api-projects/saas-jobs"
+    }
+  },
+  {
+    "name": "Portfolio Light Old",
+    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
+    "image": "port1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Dark Old",
+    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
+    "image": "port2",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Netflix Clone",
+    "desc": "The Netflix clone project is a web application developed using HTML, CSS, and JavaScript, aiming to replicate the user.",
+    "image": "netflixx",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Amazon Clone",
+    "desc": "In this article, we will go in depth and make the Amazon Clone using React. We will also be using Firebase for Authentication, Database, ",
+    "image": "amezon",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "rock paper scissors",
+    "desc": "Screenshot for Rock Paper Scissors. Prerequisites. npm or yarn installed. Getting Started. Clone the repository git clone",
+    "image": "Game",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
