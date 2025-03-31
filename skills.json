@@ -20,19 +20,7 @@
         "name": "Redux",
         "icon": "https://img.icons8.com/color/48/000000/redux.png"
     },
-   
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
-    {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
-    },
-    {
-        "name": "IOS",
-        "icon": "https://img.icons8.com/?size=60&id=V7EeO9rdpHrj&format=png&color=000000"
-    },
+
     {
         "name": "TailwindCSS",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
