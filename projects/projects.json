@@ -70,5 +70,25 @@
       "view": "#",
       "code": "#"
     }
+  },
+   {
+    "name": "rock paper scissors",
+    "desc": "Screenshot for Rock Paper Scissors. Prerequisites. npm or yarn installed. Getting Started. Clone the repository git clone",
+    "image": "Game",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+   {
+    "name": "rock paper scissors",
+    "desc": "Screenshot for Rock Paper Scissors. Prerequisites. npm or yarn installed. Getting Started. Clone the repository git clone",
+    "image": "Game",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    },
   }
 ]
